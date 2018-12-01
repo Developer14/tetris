@@ -18,7 +18,7 @@ public class Stage extends Canvas {
 
 	public static final int X_BLOCKS = 10;
 	public static final int Y_BLOCKS = 30;
-	public static final int BLOCK_SIZE = 12;
+	public static final int BLOCK_SIZE = 18;
 	public static final int INFO_PANEL_WIDTH = 120;
 	public static final int WIDTH = X_BLOCKS * BLOCK_SIZE;
 	public static final int HEIGHT = Y_BLOCKS * BLOCK_SIZE;
